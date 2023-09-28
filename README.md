@@ -7,4 +7,7 @@ and Lead Software Developer.
 
 ![obirler's Streak](https://github-readme-streak-stats.herokuapp.com/?user=obirler&theme=vue-dark&hide_border=true)
 
+
+![obirler's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obirler&hide=scss,css,javascript,html&layout=compact&theme=dark)
+
 ![obirler's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=obirler&theme=react-dark)]
