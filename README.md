@@ -10,4 +10,4 @@ and Lead Software Developer.
 
 ![obirler's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obirler&hide=scss,css,javascript,html&layout=compact&theme=dark)
 
-![obirler's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=obirler&theme=react-dark)]
+![obirler's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=obirler&theme=react-dark)
