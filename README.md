@@ -15,10 +15,12 @@ and Lead Software Developer.
 What do I do?
 - Working with Finite Element Method in the structural analysis department
 - Developing alternative analysis programs using open-source Code Aster solver for shipbuilding industry.
+- Developing ship component scantling programs for ship classification societies.
 - Writing extremely performant code in .Net for handling and manipulating million-sized meshes.
 - Using both Abaqus and Ansys, understanding their fem mechanics.
 - Developing fem model converters for those programs and Code Aster.
 - Using DevOps, mostly CI to automatize builds and tests.
 - Using Llm AI tools to automate the code review process.
+- Coding Llm inference tools for automating code generation, issue resolving.
 - Working with automated cryptocurrency trading bots, such as Freqtrade to find optimum trading algorithms and fine-tune them.
 - Working with Inno Setup to prepare click-and-forget setups.
