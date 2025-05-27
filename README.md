@@ -110,9 +110,8 @@ My current endeavors are fueled by a passion to innovate at the confluence of th
 
 *   **AI-Enhanced Ship Structure FEA:** Architecting a paradigm-shifting FEA program that deeply integrates **Artificial Intelligence and LLMs** for design validation, optimization, and intuitive interaction, primarily developed in C#.
 *   **Advancing LLM Tooling & Applications:** Actively developing and refining tools like LLMProxy, and exploring novel applications of **Large Language Models** in engineering, software development, and data analysis.
-*   **Code_Aster Ecosystem Expansion:** Contributing to specialized tools around Code_Aster, enhancing this open-source solver with modern software practices and potential AI integrations.
+*   **Code_Aster Ecosystem Expansion:** Contributing to specialized tools around Code_Aster, using this open-source solver with modern software practices and potential AI integrations.
 *   **Exploring Advanced Computational Techniques:** Continuously evaluating new algorithms and frameworks (especially in C#/.NET and AI) to elevate engineering simulation and software capabilities.
-*   **Mastering the Crypto-Verse:** Fine-tuning automated trading strategies for cryptocurrencies, driven by an analytical approach to financial technologies.
 
 ---
 
