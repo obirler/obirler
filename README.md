@@ -40,7 +40,7 @@ These projects represent my commitment to innovation and high-performance comput
   <tr>
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/obirler/LLMProxy" target="_blank">
-        <img src="https://raw.githubusercontent.com/obirler/LLMProxy/main/icon.png" width="100" alt="LLMProxy Icon">
+        <img src="https://github.com/obirler/LLMProxy/blob/master/Assets/logo_small.png?raw=true" width="100" alt="LLMProxy Icon">
       </a>
       <h3>LLMProxy</h3>
       <p>A high-throughput, extensible proxy designed to interface seamlessly with Large Language Models. Engineered for developers demanding granular control and peak performance in AI-driven applications. A testament to efficient C# development.</p>
@@ -49,7 +49,7 @@ These projects represent my commitment to innovation and high-performance comput
     <td width="33%" valign="top" align="center">
       <a href="https://github.com/obirler/mesnetmd" target="_blank">
         <!-- Replace with an actual icon if you create one for mesnetmd -->
-        <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/cubes-stacked.svg" width="80" alt="mesnetmd Icon" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(180deg) brightness(1.5);">
+        <img src="https://github.com/obirler/mesnet/blob/master/Mesnet/Assets/logo.png?raw=true" width="80" alt="mesnetmd Icon" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(180deg) brightness(1.5);">
       </a>
       <h3>mesnetmd</h3>
       <p>A precision-engineered Finite Element Method (FEM) solver for complex frame structures. Built from the ground up in C# for optimal performance, it embodies my approach to tackling intricate structural analysis with robust, efficient code.</p>
@@ -57,7 +57,7 @@ These projects represent my commitment to innovation and high-performance comput
     </td>
     <td width="33%" valign="top" align="center">
       <!-- You might want to get a logo/icon from Turk Loydu or create a generic one -->
-      <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/ship.svg" width="80" alt="Fem Beam Analyzer Icon" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(220deg) brightness(1.2);">
+      <img src="https://github.com/Mesh-Engineering-Software-Co/FemBeamAnalyzer/raw/refs/heads/development/FemBeamAnalyzer/Assets/Images/icon_new.ico" width="80" alt="Fem Beam Analyzer Icon" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(220deg) brightness(1.2);">
       <h3>Fem Beam Analyzer</h3>
       <p>A sophisticated 3D beam analysis tool powered by the open-source <strong>Code_Aster</strong> solver. Recognized by industry leaders like Türk Loydu, this program demonstrates the synergy of advanced FEM capabilities and user-centric design for the shipbuilding sector.</p>
       <p><a href="https://turkloydu.org/hizmetlerimiz/musteri-araclari/yazilimlar/fem-beam-analyzer/" target="_blank"><strong>Learn More (Türk Loydu) »</strong></a></p>
