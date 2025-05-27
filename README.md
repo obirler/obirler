@@ -96,7 +96,7 @@ My expertise lies at the intersection of foundational engineering, dedicated sof
 *   **Naval Architecture & Mechanical Engineering:** Structural analysis, mechanics, hydrodynamics, systems design.
 *   **Software Development & Architecture:** Designing and building scalable, maintainable, and high-quality software systems using best practices. Passionate about clean code and efficient algorithms.
 *   **Artificial Intelligence & LLMs:** Developing LLM inference tools (like LLMProxy), exploring AI-augmented engineering workflows, and automating code generation/review with AI.
-*   **Finite Element Analysis (FEA):** Deep expertise in **Code_Aster**, Abaqus, Ansys. Architecting next-gen FEA for ship structures.
+*   **Finite Element Analysis (FEA):** Expertise in **Code_Aster**, familiar with Abaqus, Ansys. Architecting next-gen FEA for ship structures.
 *   **Efficient Computation & System Design:** Crafting .NET solutions for optimal resource utilization, specializing in managing large-scale engineering datasets.
 *   **DevOps & Automation:** CI/CD pipelines (GitHub Actions, Azure DevOps), automated testing, Inno Setup for seamless deployment.
 *   **Data Interoperability:** Developing FEM model converters to facilitate integrated engineering processes.
