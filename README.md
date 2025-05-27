@@ -57,7 +57,7 @@ These projects represent my commitment to innovation and high-performance comput
     </td>
     <td width="33%" valign="top" align="center">
       <!-- You might want to get a logo/icon from Turk Loydu or create a generic one -->
-      <img src="https://github.com/Mesh-Engineering-Software-Co/FemBeamAnalyzer/raw/refs/heads/development/FemBeamAnalyzer/Assets/Images/icon_new.ico" width="80" alt="Fem Beam Analyzer Icon" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(220deg) brightness(1.2);">
+      <img src="https://github.com/obirler/obirler/raw/refs/heads/main/Assets/fba.ico" width="80" alt="Fem Beam Analyzer Icon" style="filter: invert(0.8) sepia(1) saturate(5) hue-rotate(220deg) brightness(1.2);">
       <h3>Fem Beam Analyzer</h3>
       <p>A sophisticated 3D beam analysis tool powered by the open-source <strong>Code_Aster</strong> solver. Recognized by industry leaders like Türk Loydu, this program demonstrates the synergy of advanced FEM capabilities and user-centric design for the shipbuilding sector.</p>
       <p><a href="https://turkloydu.org/hizmetlerimiz/musteri-araclari/yazilimlar/fem-beam-analyzer/" target="_blank"><strong>Learn More (Türk Loydu) »</strong></a></p>
