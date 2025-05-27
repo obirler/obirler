@@ -121,10 +121,9 @@ My current endeavors are fueled by a passion to innovate at the confluence of th
 My worldview and drive for learning are shaped by a fascination with complex systems, both natural and artificial:
 
 *   🔭 **Astronomy & Theoretical Physics:** The universe, with its intricate laws, inspires my approach to engineering and software. The quest for understanding by minds like Einstein, Hawking, and Sagan mirrors my own drive to unravel complexity. Quantum mechanics, with its blend of logic and mystery, is a constant source of wonder.
-*   🕌 **Faith (Islam):** My spiritual beliefs provide a foundation of purpose, ethics, and perspective.
+
 *   🤖 **The Dawn of Intelligent Systems:** My passion for **AI and LLMs** stems from a fascination with intelligence itself – how it can be modeled, replicated, and harnessed to solve profound challenges and augment human creativity.
-*   🎮 **Digital Universes:** Games like *No Man's Sky*, *Starfield*, and *Elite Dangerous* are not just leisure; they represent marvels of software engineering, systemic design, and the joy of digital exploration.
-*   💪 **The Art of Combat (Wrestling):** Admiration for the dedication, skill, and athleticism in American wrestling.
+
 *   💡 **Exploration & Discovery:** Constantly scouting GitHub and beyond for emerging technologies, driven by a lifelong passion for learning and integrating novel solutions into my engineering and software development toolkit.
 
 ---
